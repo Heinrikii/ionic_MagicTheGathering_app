@@ -1,0 +1,7 @@
+{
+  "name": "ionic_mtg_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
